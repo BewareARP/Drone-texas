@@ -1,0 +1,4 @@
+# Perform LF normalization
+* text=auto
+src/*.c text eol=lf
+src/*.h text eol=lf

@@ -1,4 +1,0 @@
-1 = pb5 front left
-2 = pb7 front right
-3 = pb4 back left
-4 = pb6
